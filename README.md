@@ -1,5 +1,5 @@
 ******************************************************************
-The link to the project is - https://19ume100-gym-app.netlify.app/
+The LINK to the project is - https://19ume100-gym-app.netlify.app/
 ******************************************************************
 
 
